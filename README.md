@@ -1,5 +1,5 @@
 ## Vist my website
-My HTML website is also hosted on github: https://kushalashok.com
+My HTML website is also hosted on github: [https://kushalashok.com](https://kushalashok.com)
 
 Everything else from github.io:
 
